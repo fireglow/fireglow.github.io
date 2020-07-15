@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>blog/attic backup on FreeBSD</title>
+<link>https://fireglow.de//blog/attic_backup_on_FreeBSD/</link>
+
+<copyright>&lt;p&gt;Do not index, do not mirror, do not archive&lt;/p&gt;
+</copyright>
+
+<description>fireglow.de</description>
+<generator>ikiwiki</generator>
+<pubDate>Sat, 29 Jun 2019 02:18:05 +0200</pubDate>
+<item>
+	<title>comment 1</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/attic_backup_on_FreeBSD/comment_1_e1325946fdd2d4166918a88468440da2/</guid>
+
+	<link>https://fireglow.de/blog/attic_backup_on_FreeBSD/#comment-81cd510a476c665812d36a284a1007bb</link>
+
+	<dc:creator>fireglow</dc:creator>
+
+
+	<pubDate>Sat, 29 Jun 2019 02:18:05 +0200</pubDate>
+	<dcterms:modified>2019-06-29T00:18:05Z</dcterms:modified>
+
+
+	<description>This is no longer required, install &lt;a href=&quot;https://www.freshports.org/archivers/py-borgbackup/&quot;&gt;borgbackup&lt;/a&gt;.
+</description>
+
+
+</item>
+
+</channel>
+</rss>

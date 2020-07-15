@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<title>contact</title>
+
+<link rel="stylesheet" href="../style.css" type="text/css" />
+
+<link rel="stylesheet" href="../local.css" type="text/css" />
+
+
+
+
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/wiki.cgi?do=edit&amp;page=contact" />
+
+
+
+
+
+
+
+<meta name="robots" content="noindex, nofollow, nosnippet, noarchive">
+<script src="../js/local.js"></script>
+<link rel="stylesheet" href="../css/component-custom-switch.css" type="text/css" />
+
+</head>
+
+<body>
+
+<article class="page">
+
+<section class="pageheader">
+<div class="headlink">
+<pre>
+   ad88 88                                   88                               
+  d8"   ""                                   88                               
+  88                                         88                               
+MM88MMM 88 8b,dPPYba,  ,adPPYba,  ,adPPYb,d8 88  ,adPPYba,  8b      db      d8
+  88    88 88P'   "Y8 a8P_____88 a8"    `Y88 88 a8"     "8a `8b    d88b    d8'
+  88    88 88         8PP""""""" 8b       88 88 8b       d8  `8b  d8'`8b  d8' 
+  88    88 88         "8b,   ,aa "8a,   ,d88 88 "8a,   ,a8"   `8bd8'  `8bd8'  
+  88    88 88          `"Ybbd8"'  `"YbbdP"Y8 88  `"YbbdP"'      YP      YP    
+                                  aa,    ,88                                  
+                                   "Y8bbdP"                                   
+</pre>
+</div>
+<header class="header">
+<span>
+<span class="parentlinks">
+
+<a href="../">fireglow.de</a>/ 
+
+</span>
+<span class="title">
+contact
+
+</span>
+</span>
+
+
+<form method="get" action="/wiki.cgi" id="searchform">
+<div>
+<input type="text" id="searchbox" name="P" value="" size="16"
+placeholder="search" />
+</div>
+</form>
+
+
+
+</header>
+
+
+<nav class="actions">
+<ul>
+
+<li><a href="/wiki.cgi?do=edit&amp;page=contact" rel="nofollow">Edit</a></li>
+
+
+<li><a href="../recentchanges/">RecentChanges</a></li>
+
+
+
+
+<li><a href="/wiki.cgi?do=prefs">Preferences</a></li>
+
+
+
+
+
+</ul>
+</nav>
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<div id="pagebody">
+
+<section id="content">
+<script type="text/javascript">
+function on_click_chunky(clicked_indicator)
+{
+  var checkbox = document.getElementById(clicked_indicator);
+  if( checkbox.checked == true ) {
+    space_str();
+  } else {
+    unspace_str();
+  }
+}
+function chunk_string(str, length) {
+  return str.match(new RegExp('.{1,' + length + '}', 'g'));
+}
+function unspace_str() {
+  nodes = document.getElementsByClassName('fingerprint');
+  for (var index = 0; index < nodes.length; index++) {
+    var str = nodes[index].textContent;
+    var replaced = str.split(' ').join('');
+    nodes[index].innerHTML = replaced;
+  }
+}
+function space_str() {
+  nodes = document.getElementsByClassName('fingerprint');
+  for (var index = 0; index < nodes.length; index++) {
+    var str = nodes[index].textContent;
+    var chunk_size = nodes[index].getAttribute('chunking');
+    var text = chunk_string(str, chunk_size);
+    var text = text.join(' ');
+    nodes[index].innerHTML = text;
+  }
+}
+</script>
+
+<p>
+  <div class="custom-switch custom-switch-label-yesno">
+    <!-- <input class="custom-switch-input" id="indicator" type="checkbox" onclick="divvy('indicator', 'nospaces', 'spaces');"> -->
+    <input type="checkbox" class="custom-switch-input" id="chunking_checkbox"  onclick="on_click_chunky(id);">
+    <label class="custom-switch-btn"  for="chunking_checkbox"></label>
+    <div class="custom-switch-content-checked">Spaces in fingerprints</div>
+    <div class="custom-switch-content-unchecked">No spaces in fingerprints</div>
+  </div>
+</p>
+
+<p>Ways to reach me:</p>
+
+<ul>
+<li><h4>E-Mail</h4>
+
+<p><b><em>fireglow@fireglow.de</em></b>  </p>
+
+<ul>
+<li>PGP fingerprint:<div class="fingerprint" chunking=4>A1498E399144461F951EE60FBD702934B9F5E615</div> <sub><sup><a href="/755/fireglow@fireglow.de.pub.asc">Download</a>, <a href="https://keys.openpgp.org/search?q=fireglow%40fireglow.de">Keyserver</a></sup></sub></li>
+<li><a href="https://github.com/stealth/opmsg">opmsg</a> fingerprint: <div class="fingerprint" chunking=16>4ee4b85ca4b9c12a076c0b06f6ab603a2e837829e9f8554a930336a24607d76a</div> <br />
+<code>$ opmsg --import --phash sha256 --name 'fireglow@fireglow.de' <br />
+-----BEGIN PUBLIC KEY----- <br />
+MGowFAYHKoZIzj0CAQYJKyQDAwIIAQEJA1IABIO0Dp+zY7JhncVPEyCHZ0EBjX9s <br />
+yIg6Z21HxOxswSwvJsUUaPe8/0xFSkYahEac2niuu8q2AwYF6Jaa/1sNLHlOotaP <br />
+yCqrBJ6RWWswdVHu <br />
+-----END PUBLIC KEY-----</code></li>
+</ul></li>
+<li><h4>XMPP with OMEMO keys</h4>
+
+<ul>
+<li><h5>fireglow@fireglow.de</h5>
+
+<ul>
+<li>Workstation <div class="fingerprint" chunking=4>2696937ADA4B0D455D3DBB263FB8822A18FF74BD50BA6C202A2D9501236B6533</div>  </li>
+<li>Mobile 1 <div class="fingerprint" chunking=4>DD7676019B2571F2AFD5B69204E12DA2E144082C75E5A0547F8F2CE58DA0EE24</div>  </li>
+<li>Mobile 2 <div class="fingerprint" chunking=4>623D3ED361F52DAEBB49B2EFB9260934829069F26775E1D4729862EA7F280B7B</div>  </li>
+</ul></li>
+<li><h5>fireglow@jabber.ccc.de</h5></li>
+<li><h5>fireglow@xmpp.is</h5></li>
+<li><h5>fireglow@trashserver.net</h5></li>
+</ul></li>
+</ul>
+
+</section>
+
+
+
+
+
+
+
+</div>
+
+<footer id="footer" class="pagefooter">
+
+<nav id="pageinfo">
+
+
+
+
+
+
+<nav id="backlinks">
+Links:
+
+<a href="../">index</a>
+
+
+</nav>
+
+
+
+<div class="pagecopyright">
+<a name="pagecopyright"></a>
+<p>Do not index, do not mirror, do not archive</p>
+
+</div>
+
+
+
+
+<div class="pagedate">
+Created <time datetime="2014-06-13T20:44:15Z" pubdate="pubdate">Fri, 2014-06-13 22:44:15</time><br />
+Last edited <time datetime="2020-07-14T17:06:26Z">Tue, 2020-07-14 19:06:26</time>
+<br />
+</div>
+
+</nav>
+
+
+<!-- from fireglow.de -->
+</footer>
+
+</article>
+
+</body>
+</html>

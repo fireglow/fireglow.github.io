@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>blog</title>
+<link>https://fireglow.de//blog/</link>
+
+<copyright>&lt;p&gt;Do not index, do not mirror, do not archive&lt;/p&gt;
+</copyright>
+
+<description>fireglow.de</description>
+<generator>ikiwiki</generator>
+<pubDate>Fri, 27 Dec 2019 21:34:55 +0100</pubDate>
+<item>
+	<title>revolver</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/revolver/</guid>
+
+	<link>https://fireglow.de//blog/revolver/</link>
+
+
+	<pubDate>Fri, 18 Sep 2015 01:15:50 +0200</pubDate>
+	<dcterms:modified>2019-12-27T20:34:55Z</dcterms:modified>
+
+
+	<description>&lt;hr /&gt;
+
+&lt;p&gt;Nobody knows where the enemy is. &lt;br /&gt;
+They don&#39;t even know he exists. &lt;br /&gt;
+He&#39;s in every one of their heads. &lt;br /&gt;
+And they trust him. &lt;br /&gt;
+Because they think they are him.  &lt;/p&gt;
+
+&lt;p&gt;Try to destroy him to save them, &lt;br /&gt;
+they&#39;ll destroy you to save him.  &lt;/p&gt;
+
+&lt;p&gt;The greatest con that he ever pulled was making you believe that he is you.  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;From &lt;a href=&quot;https://www.themoviedb.org/movie/10851-revolver&quot;&gt;Revolver&lt;/a&gt;, a 2005 film by Guy Ritchie.&lt;/p&gt;
+</description>
+
+
+	<comments>/blog/revolver/#comments</comments>
+
+</item>
+<item>
+	<title>itsonthetelly</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/itsonthetelly/</guid>
+
+	<link>https://fireglow.de//blog/itsonthetelly/</link>
+
+
+	<pubDate>Tue, 18 Nov 2014 17:24:13 +0100</pubDate>
+	<dcterms:modified>2019-07-03T18:32:11Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;&lt;em&gt;It&#39;s on the telly, so it must be true.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Asked to give a toast before the prestigious New York Press Club in 1880,
+John Swinton, the former Chief of Staff at the New York Sun, made this
+candid confession [it&#39;s worth noting that Swinton was called &quot;The Dean of His Profession&quot; by other newsmen, who admired him greatly]:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no such thing, at this date of the world’s history, as an
+  independent press. &lt;br /&gt;
+  You know it and I know it. There is not one of you who dares to write your honest opinions, and if you did,
+  you know beforehand that it would never appear in print.
+  I am paid weekly for keeping my honest opinions out of the paper I am connected with. &lt;br /&gt;
+  Others of you are paid similar salaries for similar things, and any of you who would be so foolish as to write honest opinions would be out on the
+  streets looking for another job. &lt;br /&gt;
+  If I allowed my honest opinions to appear in one issue of my paper, before twenty-four hours my occupation would be gone.
+  The business of the journalist is to destroy the truth; to lie outright; to pervert; to vilify; to fawn at the feet of Mammon, and to sell the country for his daily bread. &lt;br /&gt;
+  You know it and I know it and what folly is this toasting an independent press. We are the tools and vassals of the rich men behind the scenes. We
+  are the jumping jacks, they pull the strings and we dance. Our talents, our possibilities and our lives are all the property of other men. We are
+  intellectual prostitutes.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+
+
+	<comments>/blog/itsonthetelly/#comments</comments>
+
+</item>
+<item>
+	<title>cloud</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/cloud/</guid>
+
+	<link>https://fireglow.de//blog/cloud/</link>
+
+
+	<pubDate>Wed, 01 Oct 2014 14:49:23 +0200</pubDate>
+	<dcterms:modified>2019-07-03T18:18:31Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;In light of &lt;a href=&quot;http://xenbits.xen.org/xsa/advisory-108.html&quot;&gt;recent events&lt;/a&gt;, I&#39;d like to remind everybody of this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;x86 virtualization is about basically placing another nearly full
+      kernel, full of new bugs, on top of a nasty x86 architecture which
+      barely has correct page protection.  Then running your operating
+      system on the other side of this brand new pile of shit.&lt;/p&gt;
+  
+  &lt;p&gt;You are absolutely deluded, if not stupid, if you think that a
+      worldwide collection of software engineers who can&#39;t write operating
+      systems or applications without security holes, can then turn around
+      and suddenly write virtualization layers without security holes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;mdash; &lt;a href=&quot;http://marc.info/?l=openbsd-misc&amp;amp;m=119318909016582&quot;&gt;&lt;em&gt;Theo de Raadt&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+
+
+	<comments>/blog/cloud/#comments</comments>
+
+</item>
+<item>
+	<title>attic backup on FreeBSD</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/attic_backup_on_FreeBSD/</guid>
+
+	<link>https://fireglow.de//blog/attic_backup_on_FreeBSD/</link>
+
+
+
+	<category>freebsd</category>
+
+	<category>python</category>
+
+
+	<pubDate>Sun, 29 Jun 2014 15:13:19 +0200</pubDate>
+	<dcterms:modified>2019-07-03T19:05:44Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;&lt;a href=&quot;https://attic-backup.org/index.html&quot;&gt;Attic&lt;/a&gt; is a deduplicating backup program written in Python. &lt;br /&gt;
+It requires Python 3 and msgpack-python, and llfuse for optional snapshot mounting. &lt;br /&gt;
+The default Python version on FreeBSD is 2.7, therefore manual installation is required.  &lt;/p&gt;
+
+&lt;p&gt;Install the necessary FreeBSD ports: &lt;br /&gt;
+&lt;code&gt;pkg install lang/python35 devel/py-setuptools35 devel/py-msgpack-python devel/pkgconf security/ca_root_nss sysutils/fusefs-libs&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Load the fuse kmod (if you want to use `attic mount` right away): &lt;br /&gt;
+&lt;code&gt;kldload fuse.ko&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the easy_install script from the 3.5 setuptools to get the dependencies and the main program: &lt;br /&gt;
+&lt;code&gt;/usr/local/bin/easy_install-3.5 llfuse attic&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Attic is now installed in /usr/local/bin/attic, enjoy.&lt;/p&gt;
+</description>
+
+
+	<comments>/blog/attic_backup_on_FreeBSD/#comments</comments>
+
+</item>
+<item>
+	<title>my OS odyssey</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/my_OS_odyssey/</guid>
+
+	<link>https://fireglow.de//blog/my_OS_odyssey/</link>
+
+
+	<pubDate>Wed, 25 Jun 2014 06:21:49 +0200</pubDate>
+	<dcterms:modified>2019-01-05T05:32:16Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;Christmas 1996: First computer (200 MHz, 32 MB RAM, Windows 95)&lt;/p&gt;
+
+&lt;p&gt;1999: First Linux: SuSE 6.2&lt;/p&gt;
+
+&lt;p&gt;2001: Root Server at 1&amp;amp;1&lt;/p&gt;
+
+&lt;p&gt;Summer 2002: First gentoo experience&lt;/p&gt;
+
+&lt;p&gt;Winter 2003: Linux Desktop (Debian) for about three months&lt;/p&gt;
+
+&lt;p&gt;14.05.2005: OS X replaces Windows as desktop operating system (iMac G5)&lt;/p&gt;
+
+&lt;p&gt;01.08.2005: Root server moved to netdirekt, Debian&lt;/p&gt;
+
+&lt;p&gt;11.11.2007: MacBook for university (MacBook (white) 13.3-inch, 2.2GHz)&lt;/p&gt;
+
+&lt;p&gt;17.01.2007: Rootserver moved to manitu.de, gentoo&lt;/p&gt;
+
+&lt;p&gt;30.01.2007: Rootserver at netdirekt cancelled&lt;/p&gt;
+
+&lt;p&gt;2008: First OpenBSD experience&lt;/p&gt;
+
+&lt;p&gt;2009: FreeBSD replaces Debian as home server OS&lt;/p&gt;
+
+&lt;p&gt;Feb 2011: FreeBSD replaces gentoo as server OS&lt;/p&gt;
+
+&lt;p&gt;04.11.2012: FreeBSD replaces OS X as desktop OS&lt;/p&gt;
+
+&lt;p&gt;01.06.2013: Root server moved to Online.net&lt;/p&gt;
+
+&lt;p&gt;18.05.2016: HardenedBSD replaces FreeBSD on all server machines&lt;/p&gt;
+
+&lt;p&gt;07.10.2018: Servers at Online.net were migrated to Hetzner&lt;/p&gt;
+</description>
+
+
+	<comments>/blog/my_OS_odyssey/#comments</comments>
+
+</item>
+<item>
+	<title>very blog</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/very_blog/</guid>
+
+	<link>https://fireglow.de//blog/very_blog/</link>
+
+
+	<pubDate>Sun, 19 Jan 2014 10:35:17 +0100</pubDate>
+	<dcterms:modified>2018-10-13T21:14:57Z</dcterms:modified>
+
+
+	<description>wow
+
+such blogging
+</description>
+
+
+	<comments>/blog/very_blog/#comments</comments>
+
+</item>
+
+</channel>
+</rss>

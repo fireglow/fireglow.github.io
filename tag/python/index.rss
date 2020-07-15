@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>pages tagged python</title>
+<link>https://fireglow.de//tag/python/</link>
+
+<copyright>&lt;p&gt;Do not index, do not mirror, do not archive&lt;/p&gt;
+</copyright>
+
+<description>fireglow.de</description>
+<generator>ikiwiki</generator>
+<pubDate>Wed, 03 Jul 2019 21:05:44 +0200</pubDate>
+<item>
+	<title>attic backup on FreeBSD</title>
+
+	<guid isPermaLink="false">https://fireglow.de//blog/attic_backup_on_FreeBSD/</guid>
+
+	<link>https://fireglow.de//blog/attic_backup_on_FreeBSD/</link>
+
+
+
+	<category>freebsd</category>
+
+	<category>python</category>
+
+
+	<pubDate>Sun, 29 Jun 2014 15:13:19 +0200</pubDate>
+	<dcterms:modified>2019-07-03T19:05:44Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;&lt;a href=&quot;https://attic-backup.org/index.html&quot;&gt;Attic&lt;/a&gt; is a deduplicating backup program written in Python. &lt;br /&gt;
+It requires Python 3 and msgpack-python, and llfuse for optional snapshot mounting. &lt;br /&gt;
+The default Python version on FreeBSD is 2.7, therefore manual installation is required.  &lt;/p&gt;
+
+&lt;p&gt;Install the necessary FreeBSD ports: &lt;br /&gt;
+&lt;code&gt;pkg install lang/python35 devel/py-setuptools35 devel/py-msgpack-python devel/pkgconf security/ca_root_nss sysutils/fusefs-libs&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Load the fuse kmod (if you want to use `attic mount` right away): &lt;br /&gt;
+&lt;code&gt;kldload fuse.ko&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the easy_install script from the 3.5 setuptools to get the dependencies and the main program: &lt;br /&gt;
+&lt;code&gt;/usr/local/bin/easy_install-3.5 llfuse attic&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Attic is now installed in /usr/local/bin/attic, enjoy.&lt;/p&gt;
+</description>
+
+
+	<comments>/blog/attic_backup_on_FreeBSD/#comments</comments>
+
+</item>
+
+</channel>
+</rss>

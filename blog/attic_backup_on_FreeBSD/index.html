@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<title>attic backup on FreeBSD</title>
+
+<link rel="stylesheet" href="../../style.css" type="text/css" />
+
+<link rel="stylesheet" href="../../local.css" type="text/css" />
+
+
+
+
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/wiki.cgi?do=edit&amp;page=blog%2Fattic_backup_on_FreeBSD" />
+
+
+
+
+
+
+
+<meta name="robots" content="noindex, nofollow, nosnippet, noarchive">
+<script src="../../js/local.js"></script>
+<link rel="stylesheet" href="../../css/component-custom-switch.css" type="text/css" />
+
+</head>
+
+<body>
+
+<article class="page">
+
+<section class="pageheader">
+<div class="headlink">
+<pre>
+   ad88 88                                   88                               
+  d8"   ""                                   88                               
+  88                                         88                               
+MM88MMM 88 8b,dPPYba,  ,adPPYba,  ,adPPYb,d8 88  ,adPPYba,  8b      db      d8
+  88    88 88P'   "Y8 a8P_____88 a8"    `Y88 88 a8"     "8a `8b    d88b    d8'
+  88    88 88         8PP""""""" 8b       88 88 8b       d8  `8b  d8'`8b  d8' 
+  88    88 88         "8b,   ,aa "8a,   ,d88 88 "8a,   ,a8"   `8bd8'  `8bd8'  
+  88    88 88          `"Ybbd8"'  `"YbbdP"Y8 88  `"YbbdP"'      YP      YP    
+                                  aa,    ,88                                  
+                                   "Y8bbdP"                                   
+</pre>
+</div>
+<header class="header">
+<span>
+<span class="parentlinks">
+
+<a href="../../">fireglow.de</a>/ 
+
+<a href="../">blog</a>/ 
+
+</span>
+<span class="title">
+attic backup on FreeBSD
+
+</span>
+</span>
+
+
+<form method="get" action="/wiki.cgi" id="searchform">
+<div>
+<input type="text" id="searchbox" name="P" value="" size="16"
+placeholder="search" />
+</div>
+</form>
+
+
+
+</header>
+
+
+<nav class="actions">
+<ul>
+
+<li><a href="/wiki.cgi?do=edit&amp;page=blog%2Fattic_backup_on_FreeBSD" rel="nofollow">Edit</a></li>
+
+
+<li><a href="../../recentchanges/">RecentChanges</a></li>
+
+
+
+
+<li><a href="/wiki.cgi?do=prefs">Preferences</a></li>
+
+
+
+<li><a href="./#comments">1 comment</a></li>
+
+</ul>
+</nav>
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<div id="pagebody">
+
+<section id="content">
+<p><a href="https://attic-backup.org/index.html">Attic</a> is a deduplicating backup program written in Python. <br />
+It requires Python 3 and msgpack-python, and llfuse for optional snapshot mounting. <br />
+The default Python version on FreeBSD is 2.7, therefore manual installation is required.  </p>
+
+<p>Install the necessary FreeBSD ports: <br />
+<code>pkg install lang/python35 devel/py-setuptools35 devel/py-msgpack-python devel/pkgconf security/ca_root_nss sysutils/fusefs-libs</code></p>
+
+<p>Load the fuse kmod (if you want to use `attic mount` right away): <br />
+<code>kldload fuse.ko</code></p>
+
+<p>Use the easy_install script from the 3.5 setuptools to get the dependencies and the main program: <br />
+<code>/usr/local/bin/easy_install-3.5 llfuse attic</code></p>
+
+<p>Attic is now installed in /usr/local/bin/attic, enjoy.</p>
+
+</section>
+
+
+
+
+
+<section id="comments">
+<div  class="feedlink">
+
+<a class="feedbutton" type="application/rss+xml" rel="alternate" title="fireglow.de (RSS feed)" href="comments.rss">RSS</a>
+
+
+<a class="feedbutton" type="application/atom+xml" rel="alternate" title="fireglow.de (Atom feed)" href="comments.atom">Atom</a>
+
+</div>
+<article class="comment" id="comment-81cd510a476c665812d36a284a1007bb">
+
+
+
+
+<header class="comment-subject">
+
+<a href="https://fireglow.de/blog/attic_backup_on_FreeBSD/#comment-81cd510a476c665812d36a284a1007bb">comment 1</a>
+
+</header>
+
+<section class="inlinecontent">
+This is no longer required, install <a href="https://www.freshports.org/archivers/py-borgbackup/">borgbackup</a>.
+
+</section>
+
+<header class="comment-header">
+
+Comment by
+
+<span class="author" title="Signed in">
+
+<a href="/wiki.cgi?do=goto&amp;page=fireglow">fireglow</a>
+
+</span>
+
+
+&mdash; <time datetime="2019-06-29T00:18:05Z" pubdate="pubdate">Sat, 2019-06-29 02:18:05</time>
+</header>
+
+
+<nav class="actions">
+<ul>
+
+<li><a href="/wiki.cgi?do=remove&amp;page=blog%2Fattic_backup_on_FreeBSD%2Fcomment_1_e1325946fdd2d4166918a88468440da2" rel="nofollow">Remove comment</a></li>
+
+</ul>
+</nav>
+
+
+<div style="clear: both"></div>
+</article>
+
+
+
+
+<div class="addcomment">
+<a href="/wiki.cgi?do=comment&amp;page=blog%2Fattic_backup_on_FreeBSD">Add a comment</a>
+</div>
+
+</section>
+
+
+
+</div>
+
+<footer id="footer" class="pagefooter">
+
+<nav id="pageinfo">
+
+
+
+
+<nav class="tags">
+Tags:
+
+<a href="../../tag/freebsd/" rel="tag">freebsd</a>
+
+<a href="../../tag/python/" rel="tag">python</a>
+
+</nav>
+
+
+
+
+
+<div class="pagecopyright">
+<a name="pagecopyright"></a>
+<p>Do not index, do not mirror, do not archive</p>
+
+</div>
+
+
+
+
+<div class="pagedate">
+Created <time datetime="2014-06-29T13:13:19Z" pubdate="pubdate">Sun, 2014-06-29 15:13:19</time><br />
+Last edited <time datetime="2019-07-03T19:05:44Z">Wed, 2019-07-03 21:05:44</time>
+<br />
+</div>
+
+</nav>
+
+
+<!-- from fireglow.de -->
+</footer>
+
+</article>
+
+</body>
+</html>

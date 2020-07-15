@@ -1,0 +1,247 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+B612 Mono, License: Open Font License
+https://fonts.google.com/specimen/B612+Mono
+*/
+@font-face {
+	font-family: "B612Mono-Regular";
+	src: url("../fonts/b612mono-regular.woff");
+}
+/*
+Cousine, License: Apache License, Version 2.0
+https://fonts.google.com/specimen/Cousine
+*/
+@font-face {
+	font-family: "Cousine";
+	src: url("../fonts/cousine.woff");
+}
+/*
+Raleway, License: Open Font License
+https://fonts.google.com/specimen/Raleway
+*/
+@font-face {
+	font-family: "Raleway-Medium";
+	src: url("../fonts/raleway-medium.woff");
+}
+
+::selection {
+	background: #FFF6CC;
+	color: black;
+}
+
+body,td,th {
+	font-family: "Cousine", monospace;
+	color: #ECECEC;
+	font-size: 17px;
+	text-align: left;
+}
+body {
+	background-color: #47414B;
+}
+a:link {
+	color: #FFD00D;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFD00D;
+	/*text-decoration: underline;*/
+	/*text-decoration-color: #E18728;*/
+}
+a:hover {
+	color: #660000;
+	text-decoration: underline;
+}
+a:active {
+	color: #660000;
+	text-decoration: underline;
+}
+
+/*Wiki*/
+.actions {
+	position: fixed;
+	/*z-index:-1;*/
+	top: 30px;
+	right: 5px;
+	font-size: 11px;
+}
+.pagedate {
+	font-size: 13px;
+	color: #CCCCCC;
+}
+.backlinks {
+	font-size: 13px;
+}
+
+div.recentchanges {
+	border-style: solid;
+	border-width: 1px;
+	overflow: auto;
+	width: auto;
+	clear: none;
+	background: #47414B;
+	color: rgb(236, 236, 236) !important;
+}
+.recentchanges .changelog {
+	font-style: italic;
+	clear: both;
+	display: block;
+	padding: 10px 2px;
+	background: #47414B !important;
+	color: rgb(236, 236, 236) !important;
+}
+
+.blogform, #blogform {
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+	background: #47414B;
+	color: rgb(236, 236, 236) !important;
+	width: auto;
+	overflow: auto;
+}
+
+/*Old site*/
+.headlink {
+	color: #707070;
+	font-family: "Cousine", monospace;
+	text-decoration: none;
+	padding-left: 10%;
+}
+.pseudoslogan {
+	padding-left: 6%;
+}
+.pc-name {
+	padding-left: 3%;
+	text-align: left;
+	font-family: monospace;
+	text-transform:uppercase;
+}
+.pc-cat {
+	padding-left: 5%;
+	text-align: left;
+	font-family: monospace;
+	text-decoration:underline;
+}
+.pc-prep {
+	padding-left: 7%;
+	text-align:left;
+	font-family: monospace;
+}
+.border1 {
+	border-style:outset;
+	border-spacing:inherit;
+}
+#downthere {
+	background-position: bottom;
+	bottom: 2px;
+	font-size: x-small;
+	left: 2px;
+	vertical-align: text-bottom;
+	visibility: visible;
+}
+
+.wb-tip {
+	float:left;	
+	margin-left:50px;
+	width:350px;
+	text-align:left;
+	padding-left:5px;
+	padding-bottom:0;
+	padding-top:0;
+
+
+	background-color:#443A4B;
+
+	border:1px solid black;
+	/*font-size:12px; */
+	font-size:small;
+	font-family:inherit;
+}
+
+.indentabit {
+	text-indent: 600px;
+	left: 50px;
+	top: 50px;
+}
+
+/*Quotes 
+via <https://codepen.io/tomhodgins/pen/gPaPoq>*/
+blockquote {
+  margin: 0 auto;
+  padding: 1em;
+  border-left: 5px solid #999;
+}
+blockquote:before {
+  display: none;
+}
+blockquote:not(:first-of-type) {
+  margin-top: .5em;
+}
+blockquote p {
+  /*color: #555;*/
+  line-height: 1.55;
+  font-family: "Raleway-Medium", sans-serif;
+}
+blockquote footer {
+  margin-top: .5em;
+  padding: 0;
+  color: #777;
+  text-align: left;
+  font-style: italic;
+}
+blockquote footer:before {
+  content: '— ';
+}
+blockquote:nth-of-type(even) {
+  text-align: right;
+  border-left: none;
+  border-right: 5px solid #999;
+}
+blockquote:nth-of-type(even) footer {
+  text-align: right;
+}
+blockquote:nth-of-type(even) footer:before {
+  content: '';
+}
+blockquote:nth-of-type(even) footer:after {
+  content: ' —';
+}
+@element 'blockquote' and (min-width: 300px) {
+  blockquote {
+    padding: 1em 20% 1em 1em;
+  }
+  blockquote p {
+  }
+  blockquote:nth-of-type(even) {
+    padding: 1em 1em 1em 20%;
+  }
+}
+
+code, .fingerprint {
+	font-family: "B612Mono-Regular", monospace;
+	line-height: 26px;
+	color: #ECECEC;
+	/*line-height: 19.7167px;*/
+
+	/*display: inline;*/
+	display: inline-block;
+	box-sizing: border-box;
+	/*max-width: 500px;*/
+	/*background-color: #663686;*/
+	background-color: #5A414B;
+	background-image: none;
+
+	border-radius: 3px;
+	padding: 3px 5px;
+	border: 1px solid black;
+	margin: 5px 0;
+}
+
+h4 {
+	font-size: 15px;
+}
+
+h5 {
+	font-size: 15.5px;
+}

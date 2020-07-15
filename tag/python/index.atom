@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pages tagged python</title>
+<link href="https://fireglow.de//tag/python/"/>
+<link href="https://fireglow.de//tag/python/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>fireglow.de</name>
+
+</author>
+
+<rights type="html" xml:lang="en">
+
+	&lt;p&gt;Do not index, do not mirror, do not archive&lt;/p&gt;
+
+
+</rights>
+
+
+<id>https://fireglow.de//tag/python/</id>
+
+<subtitle type="html">fireglow.de</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2019-07-03T19:05:44Z</updated>
+<entry>
+	<title>attic backup on FreeBSD</title>
+
+	<id>https://fireglow.de//blog/attic_backup_on_FreeBSD/</id>
+
+	<link href="https://fireglow.de//blog/attic_backup_on_FreeBSD/"/>
+
+
+
+
+
+
+	<category term="freebsd" />
+
+	<category term="python" />
+
+
+	<updated>2019-07-03T19:05:44Z</updated>
+	<published>2014-06-29T13:13:19Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;&lt;a href=&quot;https://attic-backup.org/index.html&quot;&gt;Attic&lt;/a&gt; is a deduplicating backup program written in Python. &lt;br /&gt;
+It requires Python 3 and msgpack-python, and llfuse for optional snapshot mounting. &lt;br /&gt;
+The default Python version on FreeBSD is 2.7, therefore manual installation is required.  &lt;/p&gt;
+
+&lt;p&gt;Install the necessary FreeBSD ports: &lt;br /&gt;
+&lt;code&gt;pkg install lang/python35 devel/py-setuptools35 devel/py-msgpack-python devel/pkgconf security/ca_root_nss sysutils/fusefs-libs&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Load the fuse kmod (if you want to use `attic mount` right away): &lt;br /&gt;
+&lt;code&gt;kldload fuse.ko&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the easy_install script from the 3.5 setuptools to get the dependencies and the main program: &lt;br /&gt;
+&lt;code&gt;/usr/local/bin/easy_install-3.5 llfuse attic&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Attic is now installed in /usr/local/bin/attic, enjoy.&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/blog/attic_backup_on_FreeBSD/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/blog/attic_backup_on_FreeBSD/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>
