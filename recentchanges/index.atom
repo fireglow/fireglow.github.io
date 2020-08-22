@@ -22,7 +22,73 @@
 
 <subtitle type="html">fireglow.de</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2020-08-22T01:22:27Z</updated>
+<updated>2020-08-22T01:23:52Z</updated>
+<entry>
+	<title>change to equipment on fireglow.de</title>
+
+	<id>https://fireglow.de//recentchanges/change_0fb662c10cfdb40442a96615dca425e5c47ca7bb/</id>
+
+	<link href="https://fireglow.de/recentchanges/#change-0fb662c10cfdb40442a96615dca425e5c47ca7bb"/>
+
+	<author><name>fireglow</name></author>
+
+
+
+
+
+	<updated>2020-08-22T01:23:52Z</updated>
+	<published>2020-08-22T01:23:52Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-0fb662c10cfdb40442a96615dca425e5c47ca7bb&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=equipment&quot; rel=&quot;nofollow&quot;&gt;equipment&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2020-08-22T01:23:52Z&quot;&gt;03:23:52 08/22/2020&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=0fb662c10cfdb40442a96615dca425e5c47ca7bb&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+fix HTML&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 0fb662c10cfdb40442a96615dca425e5c47ca7bb --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to equipment on fireglow.de</title>
 
@@ -6407,68 +6473,6 @@ oh my god all the spaces and tabs and whatnot jesus&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;!-- 2cc01a6b24dbceb5b62e7d3658b924d4c98f9944 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to contact on fireglow.de</title>
-
-	<id>https://fireglow.de//recentchanges/change_d736003085d30f435fa18f403c5b119feae3f0e1/</id>
-
-	<link href="https://fireglow.de/recentchanges/#change-d736003085d30f435fa18f403c5b119feae3f0e1"/>
-
-	<author><name>fireglow</name></author>
-
-
-
-
-
-	<updated>2019-07-18T00:22:17Z</updated>
-	<published>2019-07-18T00:22:17Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-d736003085d30f435fa18f403c5b119feae3f0e1&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:22:17Z&quot;&gt;02:22:17 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=d736003085d30f435fa18f403c5b119feae3f0e1&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-&lt;/div&gt;
-
-&lt;!-- d736003085d30f435fa18f403c5b119feae3f0e1 --&gt;
 
 	</content>
 
