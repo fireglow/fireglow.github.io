@@ -26,15 +26,10 @@ https://fonts.google.com/specimen/Raleway
 	src: url("../fonts/raleway-medium.woff");
 }
 
-::selection {
-	background: #FFF6CC;
-	color: black;
-}
-
 body,td,th {
 	font-family: "Cousine", monospace;
 	color: #ECECEC;
-	font-size: 17px;
+	font-size: 14px;
 	text-align: left;
 }
 body {
@@ -180,6 +175,7 @@ blockquote:not(:first-of-type) {
 }
 blockquote p {
   /*color: #555;*/
+  font-size: 12pt;
   line-height: 1.55;
   font-family: "Raleway-Medium", sans-serif;
 }
@@ -187,6 +183,7 @@ blockquote footer {
   margin-top: .5em;
   padding: 0;
   color: #777;
+  font-size: 12pt;
   text-align: left;
   font-style: italic;
 }
@@ -212,14 +209,16 @@ blockquote:nth-of-type(even) footer:after {
     padding: 1em 20% 1em 1em;
   }
   blockquote p {
+    font-size: 14pt;
   }
   blockquote:nth-of-type(even) {
     padding: 1em 1em 1em 20%;
   }
 }
 
-code, .fingerprint {
+code {
 	font-family: "B612Mono-Regular", monospace;
+	font-size: 13.5px;
 	line-height: 26px;
 	color: #ECECEC;
 	/*line-height: 19.7167px;*/
@@ -230,12 +229,38 @@ code, .fingerprint {
 	/*max-width: 500px;*/
 	/*background-color: #663686;*/
 	background-color: #5A414B;
+	/*background-color: #FFF1B3;*/
 	background-image: none;
 
 	border-radius: 3px;
 	padding: 3px 5px;
 	border: 1px solid black;
 	margin: 5px 0;
+
+
+
+
+/*	border-bottom-color: rgb(36, 41, 46);
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	border-image-outset: 0;
+	border-image-repeat: stretch;
+	border-image-slice: 100%;
+	border-image-source: none;
+	border-image-width: 1;
+	border-left-color: rgb(36, 41, 46);
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-color: rgb(36, 41, 46);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(36, 41, 46);
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-style: none;
+	border-top-width: 0px;*/
 }
 
 h4 {
