@@ -7,7 +7,7 @@ https://fonts.google.com/specimen/B612+Mono
 */
 @font-face {
 	font-family: "B612Mono-Regular";
-	src: url("../fonts/b612mono-regular.woff");
+	src: url("../fonts/B612Mono-Regular.woff2");
 }
 /*
 Cousine, License: Apache License, Version 2.0
@@ -15,21 +15,29 @@ https://fonts.google.com/specimen/Cousine
 */
 @font-face {
 	font-family: "Cousine";
-	src: url("../fonts/cousine.woff");
+	src: url("../fonts/Cousine-Regular.woff2");
 }
 /*
 Raleway, License: Open Font License
 https://fonts.google.com/specimen/Raleway
 */
+/*
 @font-face {
 	font-family: "Raleway-Medium";
-	src: url("../fonts/raleway-medium.woff");
+	src: url("../fonts/Raleway-Medium.woff2");
+}
+*/
+
+::selection {
+	/*color: #ECECEC;*/
+	color: black;
+	background: #ffeb96;
 }
 
 body,td,th {
 	font-family: "Cousine", monospace;
 	color: #ECECEC;
-	font-size: 14px;
+	font-size: 17px;
 	text-align: left;
 }
 body {
@@ -175,9 +183,10 @@ blockquote:not(:first-of-type) {
 }
 blockquote p {
   /*color: #555;*/
-  font-size: 12pt;
+  font-size: 14pt;
   line-height: 1.55;
-  font-family: "Raleway-Medium", sans-serif;
+  /*font-family: "Raleway-Medium", sans-serif;*/
+  font-family: sans-serif;
 }
 blockquote footer {
   margin-top: .5em;
@@ -209,7 +218,7 @@ blockquote:nth-of-type(even) footer:after {
     padding: 1em 20% 1em 1em;
   }
   blockquote p {
-    font-size: 14pt;
+    font-size: 17pt;
   }
   blockquote:nth-of-type(even) {
     padding: 1em 1em 1em 20%;
@@ -218,7 +227,7 @@ blockquote:nth-of-type(even) footer:after {
 
 code {
 	font-family: "B612Mono-Regular", monospace;
-	font-size: 13.5px;
+	font-size: 17px;
 	line-height: 26px;
 	color: #ECECEC;
 	/*line-height: 19.7167px;*/
@@ -236,9 +245,6 @@ code {
 	padding: 3px 5px;
 	border: 1px solid black;
 	margin: 5px 0;
-
-
-
 
 /*	border-bottom-color: rgb(36, 41, 46);
 	border-bottom-left-radius: 3px;
@@ -264,9 +270,9 @@ code {
 }
 
 h4 {
-	font-size: 15px;
+	font-size: 17px;
 }
 
 h5 {
-	font-size: 15.5px;
+	font-size: 17.5px;
 }
