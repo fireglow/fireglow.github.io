@@ -22,7 +22,96 @@
 
 <subtitle type="html">fireglow.de</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2021-04-29T03:40:04Z</updated>
+<updated>2021-05-08T21:35:12Z</updated>
+<entry>
+	<title>change to equipment on fireglow.de</title>
+
+	<id>https://fireglow.de//recentchanges/change_539f2cf03e54dfd79f867be8804afc600229c8fa/</id>
+
+	<link href="https://fireglow.de/recentchanges/#change-539f2cf03e54dfd79f867be8804afc600229c8fa"/>
+
+	<author><name>fireglow</name></author>
+
+
+
+
+
+	<updated>2021-05-08T21:35:12Z</updated>
+	<published>2021-05-08T21:35:12Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-539f2cf03e54dfd79f867be8804afc600229c8fa&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-539f2cf03e54dfd79f867be8804afc600229c8fa&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=equipment&quot; rel=&quot;nofollow&quot;&gt;equipment&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2021-05-08T21:35:12Z&quot;&gt;23:35:12 05/08/2021&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=539f2cf03e54dfd79f867be8804afc600229c8fa&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Fix router model number&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;toggleable&quot; id=&quot;diff-539f2cf03e54dfd79f867be8804afc600229c8fa&quot;&gt;
+
+&lt;pre&gt;
+diff --git a/equipment.mdwn b/equipment.mdwn
+index 94160b7..7a58f2b 100644
+--- a/equipment.mdwn
++++ b/equipment.mdwn
+@@ -97,7 +97,7 @@
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot;&amp;gt;Input, sold&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;Filco Zero FKBN87Z/EB-Y&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot;&amp;gt;Router&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot;&amp;gt;Dell Wyse 7010 (dual core AMD G-T56N, 4 GB RAM), Intel 82571EB (2x Gbit Ethernet)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot;&amp;gt;Dell Wyse Z90DE7 (dual core AMD G-T56N, 4 GB RAM), Intel 82571EB (2x Gbit Ethernet)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot;&amp;gt;Backup Router&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot;&amp;gt;Jetway J7F2 (VIA Esther 1200 MHz, 1 GB RAM), Jetway AD3RTLAN-G&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot;&amp;gt;Fujitsu Siemens Futro S400 (AMD Athlon 1000 MHz, 512 MB RAM)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+
+&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!-- 539f2cf03e54dfd79f867be8804afc600229c8fa --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to contact on fireglow.de</title>
 
@@ -9739,91 +9828,6 @@ index 3623339..ddd719c 100644
 &lt;/div&gt;
 
 &lt;!-- 228b4e0fac9ee172e57c98e45e12df5ce0b83abf --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to contact on fireglow.de</title>
-
-	<id>https://fireglow.de//recentchanges/change_4fc58a667f16d6bc50fdf6684d1d4687bbd65b45/</id>
-
-	<link href="https://fireglow.de/recentchanges/#change-4fc58a667f16d6bc50fdf6684d1d4687bbd65b45"/>
-
-	<author><name>fireglow</name></author>
-
-
-
-
-
-	<updated>2019-07-18T00:27:41Z</updated>
-	<published>2019-07-18T00:27:41Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-4fc58a667f16d6bc50fdf6684d1d4687bbd65b45&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-4fc58a667f16d6bc50fdf6684d1d4687bbd65b45&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:27:41Z&quot;&gt;02:27:41 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=4fc58a667f16d6bc50fdf6684d1d4687bbd65b45&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;toggleable&quot; id=&quot;diff-4fc58a667f16d6bc50fdf6684d1d4687bbd65b45&quot;&gt;
-
-&lt;pre&gt;
-diff --git a/contact.mdwn b/contact.mdwn
-index eef2402..3623339 100644
---- a/contact.mdwn
-+++ b/contact.mdwn
-@@ -75,7 +75,7 @@ Ways to reach me:
-     QjvNrWW3FlY2OzCqhRC8a0UCAwEAAQ==  
-     -----END PUBLIC KEY-----&amp;lt;/code&amp;gt;
- 
--    * PGP fingerprint: &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;nospaces&amp;quot;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;  
-+    * PGP fingerprint: &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;  
-     &amp;lt;sub&amp;gt;&amp;lt;sup&amp;gt;&amp;#91;Download&amp;#93;(/755/fireglow@fireglow.de.pub.asc)&amp;lt;/sup&amp;gt;&amp;lt;/sub&amp;gt;
- 
- * #### Wire
-
-&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;!-- 4fc58a667f16d6bc50fdf6684d1d4687bbd65b45 --&gt;
 
 	</content>
 
