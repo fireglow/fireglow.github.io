@@ -11,7 +11,172 @@
 
 <description>fireglow.de</description>
 <generator>ikiwiki</generator>
-<pubDate>Sat, 09 Oct 2021 08:35:22 +0200</pubDate>
+<pubDate>Tue, 29 Mar 2022 01:48:56 +0200</pubDate>
+<item>
+	<title>change to equipment on fireglow.de</title>
+
+	<guid isPermaLink="false">https://fireglow.de//recentchanges/change_f0272491e734091c0eedb1685cf380bb28422bed/</guid>
+
+	<link>https://fireglow.de/recentchanges/#change-f0272491e734091c0eedb1685cf380bb28422bed</link>
+
+	<dc:creator>fireglow</dc:creator>
+
+
+	<pubDate>Tue, 29 Mar 2022 01:48:56 +0200</pubDate>
+	<dcterms:modified>2022-03-28T23:48:56Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-f0272491e734091c0eedb1685cf380bb28422bed&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-f0272491e734091c0eedb1685cf380bb28422bed&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=equipment&quot; rel=&quot;nofollow&quot;&gt;equipment&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2022-03-28T23:48:56Z&quot;&gt;01:48:56 03/29/2022&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=f0272491e734091c0eedb1685cf380bb28422bed&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;toggleable&quot; id=&quot;diff-f0272491e734091c0eedb1685cf380bb28422bed&quot;&gt;
+
+&lt;pre&gt;
+diff --git a/equipment.mdwn b/equipment.mdwn
+index 0c61cff..13854be 100644
+--- a/equipment.mdwn
++++ b/equipment.mdwn
+@@ -20,7 +20,8 @@
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;UPS&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;APC Smart-UPS 750&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;CPU-Cooling&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;Arctic Liquid Freezer II 280 (ACFRE00066A)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt; Scythe Fuma 2 (SCFM-2000)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; style=&amp;quot;text-decoration: line-through&amp;quot; &amp;gt;Arctic Liquid Freezer II 280 (ACFRE00066A)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Case&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;Phanteks Eclipse P600s&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Case-Cooling&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+
+&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!-- f0272491e734091c0eedb1685cf380bb28422bed --&gt;
+</description>
+
+
+</item>
+<item>
+	<title>change to contact on fireglow.de</title>
+
+	<guid isPermaLink="false">https://fireglow.de//recentchanges/change_8a4a9adf615008333d824cf2269fce1e426b4e21/</guid>
+
+	<link>https://fireglow.de/recentchanges/#change-8a4a9adf615008333d824cf2269fce1e426b4e21</link>
+
+	<dc:creator>fireglow</dc:creator>
+
+
+	<pubDate>Sat, 09 Oct 2021 08:52:45 +0200</pubDate>
+	<dcterms:modified>2021-10-09T06:52:45Z</dcterms:modified>
+
+
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-8a4a9adf615008333d824cf2269fce1e426b4e21&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-8a4a9adf615008333d824cf2269fce1e426b4e21&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2021-10-09T06:52:45Z&quot;&gt;08:52:45 10/09/2021&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=8a4a9adf615008333d824cf2269fce1e426b4e21&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update OMEMO key finger prints&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;toggleable&quot; id=&quot;diff-8a4a9adf615008333d824cf2269fce1e426b4e21&quot;&gt;
+
+&lt;pre&gt;
+diff --git a/contact.mdwn b/contact.mdwn
+index 7808510..b4ac1be 100644
+--- a/contact.mdwn
++++ b/contact.mdwn
+@@ -55,8 +55,8 @@ Ways to reach me:
+ 
+ * #### XMPP with OMEMO keys
+ 	* ##### fireglow@fireglow.de  
+-        * Workstation &amp;lt;div class=&amp;quot;fingerprint&amp;quot; chunking=4&amp;gt;BE172DF711C437160BD791D40E25DCDF3D76DF03CF13B78C3E6906D48A2CEF7F&amp;lt;/div&amp;gt;  
+-        * Mobile &amp;lt;div class=&amp;quot;fingerprint&amp;quot; chunking=4&amp;gt;F03D683F7E94F1EA77A8B63552CADDD22226C24BE09F313B43088E39D9BAE90B&amp;lt;/div&amp;gt;  
++        * 783412334 &amp;lt;div class=&amp;quot;fingerprint&amp;quot; chunking=4&amp;gt;B310021576216ED26BECF37AA3091903B8C54CA57951C128DE536B4009F4B066&amp;lt;/div&amp;gt;  
++        * 1878280366 &amp;lt;div class=&amp;quot;fingerprint&amp;quot; chunking=4&amp;gt;45124C2485B070A4C63A599E363D396EB67A26F9C6B2852F75DB2A57CB102A62&amp;lt;/div&amp;gt;  
+ 
+ 	* ##### fireglow@jabber.ccc.de  
+ 
+
+&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!-- 8a4a9adf615008333d824cf2269fce1e426b4e21 --&gt;
+</description>
+
+
+</item>
 <item>
 	<title>change to contact on fireglow.de</title>
 
@@ -8889,258 +9054,6 @@ index 9e2ae1d..721f140 100644
 &lt;/div&gt;
 
 &lt;!-- 0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3 --&gt;
-</description>
-
-
-</item>
-<item>
-	<title>change to contact on fireglow.de</title>
-
-	<guid isPermaLink="false">https://fireglow.de//recentchanges/change_c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8/</guid>
-
-	<link>https://fireglow.de/recentchanges/#change-c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8</link>
-
-	<dc:creator>fireglow</dc:creator>
-
-
-	<pubDate>Thu, 18 Jul 2019 02:45:59 +0200</pubDate>
-	<dcterms:modified>2019-07-18T00:45:59Z</dcterms:modified>
-
-
-	<description>
-
-
-
-
-
-
-
-&lt;div id=&quot;change-c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:45:59Z&quot;&gt;02:45:59 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;toggleable&quot; id=&quot;diff-c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8&quot;&gt;
-
-&lt;pre&gt;
-diff --git a/contact.mdwn b/contact.mdwn
-index 444d726..9e2ae1d 100644
---- a/contact.mdwn
-+++ b/contact.mdwn
-@@ -86,39 +86,39 @@ Ways to reach me:
- 
- * #### XMPP with OMEMO keys
- 	* ##### fireglow@fireglow.de
--		* Workstation (10161)  
-+		* Workstation (10161)
- 		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`09041C2C 2B7F8D8E 1297B37E C1A6067E 666958C5 88401C69 EFC4EE70 A6BF4550`&amp;lt;/div&amp;gt;
- 		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`09041C2C2B7F8D8E1297B37EC1A6067E666958C588401C69EFC4EE70A6BF4550`&amp;lt;/div&amp;gt;
--		* iOS (2016571722)  
-+		* iOS (2016571722)
- 		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`CDEE2051 9F41AF9A D96ECC07 2CEDBD15 6CD308B3 C48054CB 316EAB09 1441FC34`&amp;lt;/div&amp;gt;
- 		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`CDEE20519F41AF9AD96ECC072CEDBD156CD308B3C48054CB316EAB091441FC34`&amp;lt;/div&amp;gt;
--		* Android (1478397563)  
-+		* Android (1478397563)
- 		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`4a5df7fe 447de8fe e06f289d cdd87e87 4bb8bdf0 3d92668f 4c1e620c 77d3d601`&amp;lt;/div&amp;gt;
- 		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`4a5df7fe447de8fee06f289dcdd87e874bb8bdf03d92668f4c1e620c77d3d601`&amp;lt;/div&amp;gt;
- 		
- 	* ##### fireglow@jabber.ccc.de
--		* Workstation (13837)  
--		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
--		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;	
--`C9DCAFC9 0DB894A2 545D8852 270672D6 51029270 12193EF2 DF182B47 75EB387E`  
--		* Android  (1679501093)  
-+		* Workstation (13837)
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`C9DCAFC9 0DB894A2 545D8852 270672D6 51029270 12193EF2 DF182B47 75EB387E`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`C9DCAFC90DB894A2545D8852270672D65102927012193EF2DF182B4775EB387E`&amp;lt;/div&amp;gt;
-+		* Android  (1679501093)
- 		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`58D5FD5A 11579561 3FFE97EC 4B153ED9 3A2FEC5D ECABB45F AAB4475E 5726472A`&amp;lt;/div&amp;gt;
- 		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`58D5FD5A115795613FFE97EC4B153ED93A2FEC5DECABB45FAAB4475E5726472A`&amp;lt;/div&amp;gt;
--	* ##### fireglow@xmpp.is
--		* Workstation (1775)  
--		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;
--		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;
--		`7671F76B B2264E30 56DA9F62 A4CFDC92 3FDA930F D552D741 C09375D8 0C2DA937`  
--		* Android (1880096024)  
--		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;
--		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;		
--		`D5CBCB77 148AE98C 45E62AB5 9A41E0DC A4A8FC38 AFD0636F 7B02FD71 7F4E5E2F`
- 
-+	* ##### fireglow@xmpp.is
-+		* Workstation (1775)
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`7671F76B B2264E30 56DA9F62 A4CFDC92 3FDA930F D552D741 C09375D8 0C2DA937`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`7671F76BB2264E3056DA9F62A4CFDC923FDA930FD552D741C09375D80C2DA937`&amp;lt;/div&amp;gt;
-+		* Android (1880096024)
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`D5CBCB77 148AE98C 45E62AB5 9A41E0DC A4A8FC38 AFD0636F 7B02FD71 7F4E5E2F`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`D5CBCB77148AE98C45E62AB59A41E0DCA4A8FC38AFD0636F7B02FD717F4E5E2F`&amp;lt;/div&amp;gt;
-+		
- 	* ##### fireglow@trashserver.net
--		* Workstation (5161)  
--		`5D5BE0DB 62F76C92 BD5EF517 4F0EDA51 A8FDF886 744B2314 E9ED6D48 CA4CDA28`  
--		* iOS (1150491043)  
--		`30CE9401 8B39346F 311EC98F 1845DB91 D701E10D 9E73CAD3 3A15D338 39F5663C`  
-+		* Workstation (5161)
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`5D5BE0DB 62F76C92 BD5EF517 4F0EDA51 A8FDF886 744B2314 E9ED6D48 CA4CDA28`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`5D5BE0DB62F76C92BD5EF5174F0EDA51A8FDF886744B2314E9ED6D48CA4CDA28`&amp;lt;/div&amp;gt; 
-+		* iOS (1150491043)
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`30CE9401 8B39346F 311EC98F 1845DB91 D701E10D 9E73CAD3 3A15D338 39F5663C`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`30CE94018B39346F311EC98F1845DB91D701E10D9E73CAD33A15D33839F5663C`&amp;lt;/div&amp;gt;
- 		* Android (1634626817)  
- 		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`30b4bc98 b85be8ae b1d16700 3dc1bbd2 88add318 dc8b1307 0478a2d6 4ed19662`&amp;lt;/div&amp;gt;
- 		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`30b4bc98b85be8aeb1d167003dc1bbd288add318dc8b13070478a2d64ed19662`&amp;lt;/div&amp;gt;
-
-&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;!-- c937c08187daf8c690ca7c79f9b9aaaa8fbb58e8 --&gt;
-</description>
-
-
-</item>
-<item>
-	<title>change to contact on fireglow.de</title>
-
-	<guid isPermaLink="false">https://fireglow.de//recentchanges/change_cd224cce0324bfd2f9733cf82b916a6369b384ed/</guid>
-
-	<link>https://fireglow.de/recentchanges/#change-cd224cce0324bfd2f9733cf82b916a6369b384ed</link>
-
-	<dc:creator>fireglow</dc:creator>
-
-
-	<pubDate>Thu, 18 Jul 2019 02:40:39 +0200</pubDate>
-	<dcterms:modified>2019-07-18T00:40:39Z</dcterms:modified>
-
-
-	<description>
-
-
-
-
-
-
-
-&lt;div id=&quot;change-cd224cce0324bfd2f9733cf82b916a6369b384ed&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-cd224cce0324bfd2f9733cf82b916a6369b384ed&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:40:39Z&quot;&gt;02:40:39 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=cd224cce0324bfd2f9733cf82b916a6369b384ed&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;toggleable&quot; id=&quot;diff-cd224cce0324bfd2f9733cf82b916a6369b384ed&quot;&gt;
-
-&lt;pre&gt;
-diff --git a/contact.mdwn b/contact.mdwn
-index 9fdcbd3..444d726 100644
---- a/contact.mdwn
-+++ b/contact.mdwn
-@@ -75,8 +75,7 @@ Ways to reach me:
-     QjvNrWW3FlY2OzCqhRC8a0UCAwEAAQ==  
-     -----END PUBLIC KEY-----&amp;lt;/code&amp;gt;
- 
--    * PGP fingerprint: &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;
--    &amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;
-+    * PGP fingerprint: &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;
-     &amp;lt;sub&amp;gt;&amp;lt;sup&amp;gt;&amp;#91;Download&amp;#93;(/755/fireglow@fireglow.de.pub.asc)&amp;lt;/sup&amp;gt;&amp;lt;/sub&amp;gt;
- 
- * #### Wire
-@@ -87,25 +86,32 @@ Ways to reach me:
- 
- * #### XMPP with OMEMO keys
- 	* ##### fireglow@fireglow.de
--
- 		* Workstation (10161)  
- 		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`09041C2C 2B7F8D8E 1297B37E C1A6067E 666958C5 88401C69 EFC4EE70 A6BF4550`&amp;lt;/div&amp;gt;
--		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`09041C2C2B7F8D8E1297B37EC1A6067E666958C588401C69EFC4EE70A6BF4550`&amp;lt;/div&amp;gt;  
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`09041C2C2B7F8D8E1297B37EC1A6067E666958C588401C69EFC4EE70A6BF4550`&amp;lt;/div&amp;gt;
- 		* iOS (2016571722)  
--		`CDEE2051 9F41AF9A D96ECC07 2CEDBD15 6CD308B3 C48054CB 316EAB09 1441FC34`
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`CDEE2051 9F41AF9A D96ECC07 2CEDBD15 6CD308B3 C48054CB 316EAB09 1441FC34`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`CDEE20519F41AF9AD96ECC072CEDBD156CD308B3C48054CB316EAB091441FC34`&amp;lt;/div&amp;gt;
- 		* Android (1478397563)  
--		`4a5df7fe 447de8fe e06f289d cdd87e87 4bb8bdf0 3d92668f 4c1e620c 77d3d601`  
--
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`4a5df7fe 447de8fe e06f289d cdd87e87 4bb8bdf0 3d92668f 4c1e620c 77d3d601`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`4a5df7fe447de8fee06f289dcdd87e874bb8bdf03d92668f4c1e620c77d3d601`&amp;lt;/div&amp;gt;
-+		
- 	* ##### fireglow@jabber.ccc.de
- 		* Workstation (13837)  
--  		`C9DCAFC9 0DB894A2 545D8852 270672D6 51029270 12193EF2 DF182B47 75EB387E`  
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;	
-+`C9DCAFC9 0DB894A2 545D8852 270672D6 51029270 12193EF2 DF182B47 75EB387E`  
- 		* Android  (1679501093)  
--		`58D5FD5A 11579561 3FFE97EC 4B153ED9 3A2FEC5D ECABB45F AAB4475E 5726472A`
--
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`58D5FD5A 11579561 3FFE97EC 4B153ED9 3A2FEC5D ECABB45F AAB4475E 5726472A`&amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`58D5FD5A115795613FFE97EC4B153ED93A2FEC5DECABB45FAAB4475E5726472A`&amp;lt;/div&amp;gt;
- 	* ##### fireglow@xmpp.is
- 		* Workstation (1775)  
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;
- 		`7671F76B B2264E30 56DA9F62 A4CFDC92 3FDA930F D552D741 C09375D8 0C2DA937`  
- 		* Android (1880096024)  
-+		&amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;
-+		&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;		
- 		`D5CBCB77 148AE98C 45E62AB5 9A41E0DC A4A8FC38 AFD0636F 7B02FD71 7F4E5E2F`
- 
- 	* ##### fireglow@trashserver.net
-
-&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;!-- cd224cce0324bfd2f9733cf82b916a6369b384ed --&gt;
 </description>
 
 
