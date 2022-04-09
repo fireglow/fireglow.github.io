@@ -22,7 +22,295 @@
 
 <subtitle type="html">fireglow.de</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2022-03-28T23:48:56Z</updated>
+<updated>2022-04-03T05:40:32Z</updated>
+<entry>
+	<title>change to equipment on fireglow.de</title>
+
+	<id>https://fireglow.de//recentchanges/change_b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf/</id>
+
+	<link href="https://fireglow.de/recentchanges/#change-b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf"/>
+
+	<author><name>fireglow</name></author>
+
+
+
+
+
+	<updated>2022-04-03T05:40:32Z</updated>
+	<published>2022-04-03T05:40:32Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=equipment&quot; rel=&quot;nofollow&quot;&gt;equipment&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2022-04-03T05:40:32Z&quot;&gt;07:40:32 04/03/2022&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;toggleable&quot; id=&quot;diff-b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf&quot;&gt;
+
+&lt;pre&gt;
+diff --git a/equipment.mdwn b/equipment.mdwn
+index 6512b34..34e2244 100644
+--- a/equipment.mdwn
++++ b/equipment.mdwn
+@@ -29,7 +29,7 @@
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 120 mm NZXT (RF-AF12C-XZ)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Storage&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 1 TB Corsair SSD Force MP600 M.2 NVMe&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 3 TB Hitachi Ultrastar&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 3 TB Hitachi Ultrastar 7K4000&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ &amp;lt;/p&amp;gt;
+ 
+ &amp;lt;p&amp;gt;&amp;lt;a name=&amp;quot;void&amp;quot; id=&amp;quot;void&amp;quot; &amp;gt;&amp;lt;/a&amp;gt;&amp;lt;span class=&amp;quot;pc-name&amp;quot; style=&amp;quot;font-weight:bold; &amp;quot; &amp;gt;VOID&amp;lt;/span&amp;gt; Homeserver &amp;lt;i&amp;gt;(2013)&amp;lt;/i&amp;gt;&amp;lt;br/&amp;gt;
+
+&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!-- b605d6c5c0cd77f7c03e3365e09cccbbfdb366bf --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to equipment on fireglow.de</title>
+
+	<id>https://fireglow.de//recentchanges/change_04ff8199b30a7e9907dd4220a5a6c604a624a51e/</id>
+
+	<link href="https://fireglow.de/recentchanges/#change-04ff8199b30a7e9907dd4220a5a6c604a624a51e"/>
+
+	<author><name>fireglow</name></author>
+
+
+
+
+
+	<updated>2022-03-29T15:48:33Z</updated>
+	<published>2022-03-29T15:48:33Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-04ff8199b30a7e9907dd4220a5a6c604a624a51e&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-04ff8199b30a7e9907dd4220a5a6c604a624a51e&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=equipment&quot; rel=&quot;nofollow&quot;&gt;equipment&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2022-03-29T15:48:33Z&quot;&gt;17:48:33 03/29/2022&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=04ff8199b30a7e9907dd4220a5a6c604a624a51e&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;toggleable&quot; id=&quot;diff-04ff8199b30a7e9907dd4220a5a6c604a624a51e&quot;&gt;
+
+&lt;pre&gt;
+diff --git a/equipment.mdwn b/equipment.mdwn
+index cae2912..6512b34 100644
+--- a/equipment.mdwn
++++ b/equipment.mdwn
+@@ -28,8 +28,8 @@
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;3x 140 mm Phanteks&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 120 mm NZXT (RF-AF12C-XZ)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Storage&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x Corsair SSD Force MP600 M.2 NVMe (1 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x Hitachi Ultrastar (3 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 1 TB Corsair SSD Force MP600 M.2 NVMe&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 3 TB Hitachi Ultrastar&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ &amp;lt;/p&amp;gt;
+ 
+ &amp;lt;p&amp;gt;&amp;lt;a name=&amp;quot;void&amp;quot; id=&amp;quot;void&amp;quot; &amp;gt;&amp;lt;/a&amp;gt;&amp;lt;span class=&amp;quot;pc-name&amp;quot; style=&amp;quot;font-weight:bold; &amp;quot; &amp;gt;VOID&amp;lt;/span&amp;gt; Homeserver &amp;lt;i&amp;gt;(2013)&amp;lt;/i&amp;gt;&amp;lt;br/&amp;gt;
+@@ -48,11 +48,11 @@
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Case&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;Chenbro SR107&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Storage&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x ADATA SP900 64GB (ASP900S3-64GM-C)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;3x Seagate Barracuda 7200.12 ST31000528AS (1 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x Seagate Barracuda Green ST2000DL003 (2 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x WDC Green (3 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;2x WDC Red (WD40EFRX, 4 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 64 GB ADATA SP900 (ASP900S3-64GM-C)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;3x 1 TB Seagate Barracuda 7200.12 ST31000528AS&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 2 TB Seagate Barracuda Green ST2000DL003&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 3 TB WDC Green&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;2x 4 TB WDC Red (WD40EFRX)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ &amp;lt;/p&amp;gt;
+ 
+ &amp;lt;p&amp;gt;&amp;lt;a name=&amp;quot;void&amp;quot; id=&amp;quot;void&amp;quot; &amp;gt;&amp;lt;/a&amp;gt;&amp;lt;span class=&amp;quot;pc-name&amp;quot; style=&amp;quot;font-weight:bold; &amp;quot; &amp;gt;X200&amp;lt;/span&amp;gt; Laptop&amp;lt;br/&amp;gt;
+@@ -61,7 +61,7 @@
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;RAM&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;2x 2 GB&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Storage&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-    &amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;OCZ Vertex 2 (120 GB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++    &amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;120 GB OCZ Vertex 2&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+     &amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Firmware&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+     &amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;Libreboot&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ &amp;lt;/p&amp;gt;
+
+&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!-- 04ff8199b30a7e9907dd4220a5a6c604a624a51e --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to equipment on fireglow.de</title>
+
+	<id>https://fireglow.de//recentchanges/change_a88318de4ecd5ce0398b803fdaf60a7ed85199c2/</id>
+
+	<link href="https://fireglow.de/recentchanges/#change-a88318de4ecd5ce0398b803fdaf60a7ed85199c2"/>
+
+	<author><name>fireglow</name></author>
+
+
+
+
+
+	<updated>2022-03-28T23:51:48Z</updated>
+	<published>2022-03-28T23:51:48Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-a88318de4ecd5ce0398b803fdaf60a7ed85199c2&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-a88318de4ecd5ce0398b803fdaf60a7ed85199c2&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
+
+
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=equipment&quot; rel=&quot;nofollow&quot;&gt;equipment&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2022-03-28T23:51:48Z&quot;&gt;01:51:48 03/29/2022&lt;/time&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=a88318de4ecd5ce0398b803fdaf60a7ed85199c2&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add 120 mm NZXT case cooler&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;toggleable&quot; id=&quot;diff-a88318de4ecd5ce0398b803fdaf60a7ed85199c2&quot;&gt;
+
+&lt;pre&gt;
+diff --git a/equipment.mdwn b/equipment.mdwn
+index 13854be..cae2912 100644
+--- a/equipment.mdwn
++++ b/equipment.mdwn
+@@ -25,7 +25,8 @@
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Case&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;Phanteks Eclipse P600s&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Case-Cooling&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+-	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;3x 140 mm&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;3x 140 mm Phanteks&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
++	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x 120 mm NZXT (RF-AF12C-XZ)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-cat&amp;quot; &amp;gt;Storage&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x Corsair SSD Force MP600 M.2 NVMe (1 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+ 	&amp;lt;span class=&amp;quot;pc-prep&amp;quot; &amp;gt;1x Hitachi Ultrastar (3 TB)&amp;lt;/span&amp;gt;&amp;lt;br/&amp;gt;
+
+&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!-- a88318de4ecd5ce0398b803fdaf60a7ed85199c2 --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to equipment on fireglow.de</title>
 
@@ -9400,269 +9688,6 @@ index b3a854b..cc3234d 100644
 &lt;/div&gt;
 
 &lt;!-- 4372d6f05cd2f4edfc40669ccdafaa4a8d566f89 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to contact on fireglow.de</title>
-
-	<id>https://fireglow.de//recentchanges/change_25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2/</id>
-
-	<link href="https://fireglow.de/recentchanges/#change-25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2"/>
-
-	<author><name>fireglow</name></author>
-
-
-
-
-
-	<updated>2019-07-18T00:49:27Z</updated>
-	<published>2019-07-18T00:49:27Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:49:27Z&quot;&gt;02:49:27 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;toggleable&quot; id=&quot;diff-25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2&quot;&gt;
-
-&lt;pre&gt;
-diff --git a/contact.mdwn b/contact.mdwn
-index 5fc3a8b..b3a854b 100644
---- a/contact.mdwn
-+++ b/contact.mdwn
-@@ -75,7 +75,7 @@ Ways to reach me:
-     QjvNrWW3FlY2OzCqhRC8a0UCAwEAAQ==  
-     -----END PUBLIC KEY-----&amp;lt;/code&amp;gt;
- 
--    * PGP fingerprint:
-+    * PGP fingerprint:  
-     &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;&amp;lt;sub&amp;gt;&amp;lt;sup&amp;gt;&amp;#91;Download&amp;#93;(/755/fireglow@fireglow.de.pub.asc)&amp;lt;/sup&amp;gt;&amp;lt;/sub&amp;gt;
- 
- * #### Wire
-
-&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;!-- 25bc9d512bdeca329f771b2cfd9e2137b2cfa1a2 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to contact on fireglow.de</title>
-
-	<id>https://fireglow.de//recentchanges/change_7f2381ccacd466e75a1da946038171c917bb8cbf/</id>
-
-	<link href="https://fireglow.de/recentchanges/#change-7f2381ccacd466e75a1da946038171c917bb8cbf"/>
-
-	<author><name>fireglow</name></author>
-
-
-
-
-
-	<updated>2019-07-18T00:48:30Z</updated>
-	<published>2019-07-18T00:48:30Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-7f2381ccacd466e75a1da946038171c917bb8cbf&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-7f2381ccacd466e75a1da946038171c917bb8cbf&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:48:30Z&quot;&gt;02:48:30 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=7f2381ccacd466e75a1da946038171c917bb8cbf&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;toggleable&quot; id=&quot;diff-7f2381ccacd466e75a1da946038171c917bb8cbf&quot;&gt;
-
-&lt;pre&gt;
-diff --git a/contact.mdwn b/contact.mdwn
-index 721f140..5fc3a8b 100644
---- a/contact.mdwn
-+++ b/contact.mdwn
-@@ -76,9 +76,7 @@ Ways to reach me:
-     -----END PUBLIC KEY-----&amp;lt;/code&amp;gt;
- 
-     * PGP fingerprint:
--    &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;
--    &amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;
--    &amp;lt;sub&amp;gt;&amp;lt;sup&amp;gt;&amp;#91;Download&amp;#93;(/755/fireglow@fireglow.de.pub.asc)&amp;lt;/sup&amp;gt;&amp;lt;/sub&amp;gt;
-+    &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;&amp;lt;sub&amp;gt;&amp;lt;sup&amp;gt;&amp;#91;Download&amp;#93;(/755/fireglow@fireglow.de.pub.asc)&amp;lt;/sup&amp;gt;&amp;lt;/sub&amp;gt;
- 
- * #### Wire
-     &amp;lt;b&amp;gt;@fireglow1&amp;lt;/b&amp;gt;
-
-&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;!-- 7f2381ccacd466e75a1da946038171c917bb8cbf --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to contact on fireglow.de</title>
-
-	<id>https://fireglow.de//recentchanges/change_0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3/</id>
-
-	<link href="https://fireglow.de/recentchanges/#change-0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3"/>
-
-	<author><name>fireglow</name></author>
-
-
-
-
-
-	<updated>2019-07-18T00:47:17Z</updated>
-	<published>2019-07-18T00:47:17Z</published>
-
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-
-
-&lt;div id=&quot;change-0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-&lt;a href=&quot;https://fireglow.de//recentchanges/#diff-0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3&quot; class=&quot;toggle&quot; title=&quot;diff&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/diff.png&quot; alt=&quot;diff&quot; /&gt;&lt;/a&gt;
-
-
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=contact&quot; rel=&quot;nofollow&quot;&gt;contact&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=goto&amp;amp;page=fireglow&quot; rel=&quot;nofollow&quot;&gt;fireglow&lt;/a&gt;
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;time datetime=&quot;2019-07-18T00:47:17Z&quot;&gt;02:47:17 07/18/2019&lt;/time&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;https://fireglow.de/wiki.cgi?do=revert&amp;amp;rev=0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://fireglow.de//wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-oh my god all the spaces and tabs and whatnot jesus&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;toggleable&quot; id=&quot;diff-0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3&quot;&gt;
-
-&lt;pre&gt;
-diff --git a/contact.mdwn b/contact.mdwn
-index 9e2ae1d..721f140 100644
---- a/contact.mdwn
-+++ b/contact.mdwn
-@@ -75,7 +75,9 @@ Ways to reach me:
-     QjvNrWW3FlY2OzCqhRC8a0UCAwEAAQ==  
-     -----END PUBLIC KEY-----&amp;lt;/code&amp;gt;
- 
--    * PGP fingerprint: &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;
-+    * PGP fingerprint:
-+    &amp;lt;div class=&amp;quot;spaces&amp;quot;&amp;gt;`A149 8E39 9144 461F 951E E60F BD70 2934 B9F5 E615`&amp;lt;/div&amp;gt;
-+    &amp;lt;div class=&amp;quot;nospaces&amp;quot;&amp;gt;`A1498E399144461F951EE60FBD702934B9F5E615`&amp;lt;/div&amp;gt;
-     &amp;lt;sub&amp;gt;&amp;lt;sup&amp;gt;&amp;#91;Download&amp;#93;(/755/fireglow@fireglow.de.pub.asc)&amp;lt;/sup&amp;gt;&amp;lt;/sub&amp;gt;
- 
- * #### Wire
-
-&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;!-- 0d1e5bce76119dcb3fdb1e69a616f21d45bcbac3 --&gt;
 
 	</content>
 
